@@ -9,3 +9,9 @@ Here's how you can implement a basic weather application using Flutter:
 1.) Add the http package to your pubspec.yaml file to make HTTP requests to the weather API.
 2.) Create a new Dart file, for example, weather.dart, and implement the weather application
 3.) Replace 'YOUR_API_KEY' with your OpenWeatherMap API key.
+
+This Dart code creates a simple weather application using Flutter. It fetches weather data from the OpenWeatherMap API based on a predefined city (New York in this example) and displays the temperature and weather description. You can customize it further by adding more features like location detection, additional weather details, and error handling.
+
+
+
+
